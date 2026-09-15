@@ -5,3 +5,5 @@
 
 /* Compact publication cards */
 #publications .cards{grid-template-columns:repeat(3,1fr);gap:14px}#publications .card{border-radius:14px}#publications .thumb{height:132px;background:#fff}#publications .thumb.photo img{object-fit:contain;padding:6px}#publications .cardbody{padding:15px 16px}#publications h4{font-size:16px;line-height:1.28;margin:5px 0 7px}#publications .card p{font-size:12.5px;line-height:1.5;margin:5px 0}#publications .venue{font-size:10px}#publications .metric{font-size:11.5px;margin-top:9px;padding-top:9px}#publications .links{margin-top:9px}.pub-event-photo{margin-top:9px;width:100%;height:72px;object-fit:cover;border-radius:8px}@media(max-width:900px){#publications .cards{grid-template-columns:repeat(2,1fr)}}@media(max-width:600px){#publications .cards{grid-template-columns:1fr}}
+
+.hero-details{max-width:790px;margin:22px 0 6px;color:var(--muted);font-size:14px}.hero-details p{margin:10px 0}.hero-details strong{color:var(--ink)}.hiring{margin-top:17px;padding:13px 15px;border-left:3px solid var(--blue);background:rgba(49,87,213,.055);border-radius:0 9px 9px 0;color:#445269}.hiring a{color:var(--blue);font-weight:750;text-decoration:none}
