@@ -8,6 +8,7 @@
 
 - [Abstract](#abstract)
 - [Topics covered](#topics-covered)
+- [Related work: FOCUS](#related-work-long-video-frame-selection)
 - [Figures](#figures)
 - [Citation](#citation)
 - [References](#references)
@@ -23,6 +24,14 @@ A shared embedding space offers a simple interface to heterogeneous data: encode
 - Retrieval for visual documents, long video, speech, environmental sound, and music.
 - Sparse–dense outputs, visual identity, interactive queries, and frozen-space expansion.
 - Evaluation, capability retention, and compatibility with deployed indexes.
+
+## Related work: long-video frame selection
+
+FOCUS studies query-relevant keyframe selection under a limited visual-token budget, complementing the review’s discussion of temporal evidence and video representation granularity.
+
+**Citation:** Zhu, Z., Xu, H., Luo, Y., Liu, Y., Sarkar, K., Yang, Z., & You, Y. (2025). *FOCUS: Efficient Keyframe Selection for Long Video Understanding*. arXiv. https://doi.org/10.48550/arXiv.2510.27280
+
+[Paper](https://arxiv.org/abs/2510.27280) · [PDF](https://arxiv.org/pdf/2510.27280) · [ICLR / OpenReview](https://openreview.net/forum?id=1OQKqLFcbB) · [Code](https://github.com/NUS-HPC-AI-Lab/FOCUS)
 
 ## Figures
 
